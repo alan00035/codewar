@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-
 class Directions_Reduction{
     public static String[] dirReduc() {
         
